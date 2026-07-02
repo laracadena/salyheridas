@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  background: #f5f0e8;
+  color: #000000;
+  font-family: Georgia, serif;
+}
+
+#app {
+  max-width: 700px;
+  margin: auto;
+  padding: 50px 25px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-size: 3rem;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.subtitle {
+  color: #000000;
+}
+
+#intro {
+  margin-bottom: 60px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+#intro p {
+  font-size: 1.1rem;
+  line-height: 1.9;
+  margin-bottom: 1.2em;
+  color: #383434;
+}
+
+#chat {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.message {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+.ai {
+  align-self: flex-start;
+}
+
+.user {
+  align-self: flex-end;
+  color: #302c2c;
+  font-style: italic;
+  text-align: right;
+}
+
+.label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #000000;
+  margin-bottom: 5px;
+}
+
+#input-area {
+  margin-top: 40px;
+  display: flex;
+  gap: 10px;
+  border-bottom: 1px solid #000000;
+  padding-bottom: 10px;
+}
+
+#user-input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  outline: none;
+  font-size: 1.1rem;
+  font-family: Georgia, serif;
+}
+
+button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: #000000;
+  font-weight: bold;
+}
+
+.poem-card {
+  margin-top: 20px;
+  padding: 25px;
+  border-left: 3px solid #000000;
+  background: rgba(70, 69, 68, 0.08);
+}
+
+.poem-title {
+  color: #000000;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.8rem;
+  margin-bottom: 15px;
+}
+
+.poem-text {
+  white-space: pre-line;
+  font-style: italic;
+  line-height: 1.8;
+}
