@@ -590,7 +590,7 @@ function showSecretHaiku(haiku) {
 function downloadPoemario() {
   const a = document.createElement("a");
   a.href = PDF_PATH;
-  a.download = "sal-e-idas-sal-y-heridas.pdf";
+  a.download = "salyheridas.pdf";
   document.body.appendChild(a);
   a.click();
   a.remove();
