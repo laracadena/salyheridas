@@ -14,7 +14,7 @@ Espirales de dolor y crimen,
 se tiñen las sombras con rojizo tinte.
 
 Fantasmas de batallas pasadas,
-algunas pérdidas, algunas ganadas,
+algunas perdidas, algunas ganadas,
 atoradas en cuatro paredes.
 Lo peor es cuando la razón se pierde.
 
