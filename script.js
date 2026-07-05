@@ -2,7 +2,7 @@ const poems = [
   {
     title: "Tránsitos",
     image: "transitos.png",
-    keywords: ["movimiento", "giro", "vuelta", "guerra", "batalla", "espiral", "duda", "incertidumbre", "direccion", "camino", "ciudad", "perdida", "razon", "transito", "cambio", "rumbo", "confuso", "perdido", "circulo", "vueltas", "giros", "luna", "sagitario", "persecucion"],
+    keywords: ["movimiento", "giro", "vuelta", "guerra", "batalla", "espiral", "duda", "incertidumbre", "direccion", "camino", "ciudad", "perdida", "pérdida", "razón", "razon", "transito", "cambio", "rumbo", "confuso", "perdido", "circulo", "vueltas", "giros", "luna", "sagitario", "persecucion"],
     text: `Giros, revoluciones y vueltas,
 todo texto en incertidumbres lentas.
 Por amor se libran las peores guerras
